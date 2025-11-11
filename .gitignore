@@ -1,0 +1,102 @@
+# ============================================
+# Virtual Environment
+# ============================================
+Scripts/
+Lib/
+Include/
+share/
+etc/
+pyvenv.cfg
+venv/
+env/
+.venv/
+ENV/
+
+# ============================================
+# Python Cache
+# ============================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# ============================================
+# Environment Variables & API Keys (QUAN TRỌNG!)
+# ============================================
+.env
+.env.local
+.env.*.local
+*.key
+*.pem
+
+# ============================================
+# Database Files
+# ============================================
+*.db
+*.sqlite
+*.sqlite3
+*.db.backup
+database_backups/
+*.db-journal
+
+# ============================================
+# Generated/Exported Files
+# ============================================
+exports/
+backups/
+*.backup
+*.bak
+
+# ============================================
+# OS Files
+# ============================================
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.stackdump
+bash.exe.stackdump
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Linux
+*~
+.directory
+.Trash-*
+
+# ============================================
+# IDE & Editor
+# ============================================
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ============================================
+# Logs & Temporary Files
+# ============================================
+*.log
+*.tmp
+*.temp
+logs/
+tmp/
+temp/
+
+# ============================================
+# Streamlit
+# ============================================
+.streamlit/
+
+# ============================================
+# Jupyter Notebook (nếu có)
+# ============================================
+.ipynb_checkpoints/
+*.ipynb

@@ -1,0 +1,45 @@
+Mã SV	Họ và tên	TBCHT H4
+1671020010	Đặng Lê Hoàng Anh	2.8
+1671020015	Đỗ Trường Anh	3.2
+1671020027	Nguyễn Thị Lan Anh	2.8
+1671020036	Vũ Đức Anh	3.6
+1671020041	Nguyễn Thanh Bình	3.6
+1671020054	Nguyễn Mạnh Cường	2.2
+1671020047	Nguyễn Văn Chuyện	2.3
+1671020068	Nguyễn Tiến Dũng	3.2
+1671020060	Nguyễn Đức Duy	3.3
+1671020063	Lê Thị Mỹ Duyên	2.9
+1671020072	Đặng Trường Dương	3.7
+1671020081	Ngô Thành Đạt	2.4
+1671020087	Bùi Tuấn Đức	2.9
+1671020089	Nguyễn Minh Đức	3
+1671020090	Nguyễn Việt Đức	3.2
+1671020098	Trịnh Hoàng Hà	3.5
+1671020115	Nguyễn Quang Hiệp	3.5
+1671020110	Nguyễn Trung Hiếu	2.7
+1671020121	Mai Đức Hoà	2.6
+1671020124	Nguyễn Đức Hoàn	2.9
+1671020137	Hồ Quang Huy	2.7
+1671020139	Nguyễn Hữu Huy	3.8
+1671020151	Lê Ngọc Hưng	2.9
+1571020142	Ngô Văn Kiên	
+1671020182	Đào Thị Phương Long	3.2
+1671020196	Trịnh Thị Yến Mai	3.4
+1671020200	Lê Đức Mạnh	3.1
+1671020209	Đoàn Tuấn Nam	2.9
+1671020222	Phạm Đình Nghĩa	3.4
+1671020227	Nguyễn Đào Phúc Nguyên	3.4
+1671020228	Nguyễn Khôi Nguyên	2.9
+1671020229	Nguyễn Văn Nguyên	2.3
+1671020260	Trịnh Kế Quang	2.9
+1671020271	Đỗ Hoàng Quý	3.4
+1671020278	Nguyễn Thanh Sơn	2.9
+1671020281	Lù Ngọc Tân	2.2
+1671020319	Nguyễn Tất Toàn	2.9
+1671020320	Phạm Trọng Toàn	3.1
+1671020341	Lâm Ngọc Tú	3.3
+1671020288	Nguyễn Tiến Thái	3.4
+1671020289	Võ Vĩnh Thái	3.2
+1671020291	Dương Xuân Thành	2.7
+1671020292	Đinh Thế Thành	3.5
+1671020307	Nguyễn Xuân Thuận	3.6
