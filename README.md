@@ -117,33 +117,37 @@ Hệ thống được xây dựng bằng các công nghệ hiện đại và ph�
 ## 🚀 3. Hình ảnh các chức năng
 
 <p align="center">
-
+    <img width="1909" height="888" alt="image" src="https://github.com/user-attachments/assets/7d041817-6559-42d2-83f9-7d20f4865284" />
+Giao diện trang chủ
 </p>
 
 <p align="center">
-  <em>Hình 1:   </em>
-</p>
-
-<p align="center">
-
-</p>
-<p align="center">
-  <em> Hình 2: </em>
-</p>
-
-
-<p align="center">
-
-</p>
-<p align="center">
-  <em> </em>
+    <img width="1358" height="836" alt="image" src="https://github.com/user-attachments/assets/333c2f00-6d94-4067-8033-7d7df11c6a35" />
+  <em>Hình 1: Lộ trình học được sinh ra  </em>
 </p>
 
 <p align="center">
 
 </p>
 <p align="center">
-  <em> Hình 4 </em>
+    <img width="1322" height="650" alt="image" src="https://github.com/user-attachments/assets/ad52d984-4779-47b1-8368-c0c131e7278c" />
+  <em> Hình 2: Các môn học quan trọng với vị trí chọn</em>
+</p>
+
+
+<p align="center">
+
+</p>
+<p align="center">
+    <img width="1548" height="798" alt="image" src="https://github.com/user-attachments/assets/8d6b75bb-49e1-4d00-bd26-e2ce1974318f" />
+  <em>Hình 3: Đề xuất các kĩ năng tiềm năng</em>
+</p>
+
+<p align="center">
+<img width="325" height="879" alt="image" src="https://github.com/user-attachments/assets/ccc8475a-3b63-4fa1-9f82-9632b880a3c2" />
+</p>
+<p align="center">
+  <em> Hình 4: Lịch sử các lộ trình học</em>
 </p>
 
 
