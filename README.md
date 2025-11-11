@@ -311,41 +311,6 @@ Kết quả được hiển thị trong 3 tabs:
   - Lịch sử lộ trình của sinh viên
   - Chi tiết từng lộ trình đã lưu
 
-### 🛠️ Quản lý Database
-
-Sử dụng script quản lý database:
-
-```bash
-python db_manager.py
-```
-
-Menu quản lý:
-- Xem thống kê database
-- Backup database
-- Restore từ backup
-- Reset database (xóa tất cả dữ liệu)
-- Cleanup backups cũ
-
-### ⚠️ Troubleshooting
-
-**Lỗi: "Vui lòng cung cấp GEMINI_API_KEY"**
-- Kiểm tra file `.env` đã được tạo chưa
-- Kiểm tra API key đã được thêm vào `.env` chưa
-- Đảm bảo format: `GEMINI_API_KEY=your_key_here` (không có dấu ngoặc kép)
-
-**Lỗi: "Expecting value: line 1 column 1"**
-- API key có thể không hợp lệ hoặc hết hạn
-- Kiểm tra kết nối Internet
-- Thử tạo API key mới
-
-**Lỗi: "No such file or directory: 'data/vi_tri.csv'"**
-- Đảm bảo thư mục `data/` và các file CSV/TXT đã có sẵn
-- Kiểm tra đường dẫn file trong `config.py`
-
-**Database không tạo được**
-- Kiểm tra quyền ghi file trong thư mục project
-- Chạy lại `python initdb.py`
-- Xóa file `learning_paths.db` cũ nếu có và chạy lại
 
 ### 📚 Tài liệu tham khảo
 
